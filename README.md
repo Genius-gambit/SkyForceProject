@@ -1,5 +1,5 @@
-# Sky Force Project
+# Warehouse Wreckage
 
 ## Link of the Game Server:
 
-Click on [Galaxy Shooter](https://joystickcoder.itch.io/space-shooter-pro) to play the game.
+Click on [Warehouse Wreckage](https://joystickcoder.itch.io/warehouse-wreckage) to play the game.
